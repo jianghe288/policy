@@ -1,1 +1,61 @@
-host-suffix, apple.com
+# Apple Services
+HOST-SUFFIX, apple.com
+HOST-SUFFIX, icloud.com
+HOST-SUFFIX, icloud-content.com
+HOST-SUFFIX, itunes.com
+HOST-SUFFIX, me.com
+HOST-SUFFIX, mac.com
+HOST-SUFFIX, apple.co
+HOST-SUFFIX, appleid.apple.com
+HOST-SUFFIX, apple-maps.com
+HOST-SUFFIX, apple-news.com
+HOST-SUFFIX, appstore.com
+HOST-SUFFIX, beats1-api-origin.itunes.apple.com
+HOST-SUFFIX, cdn-apple.com
+HOST-SUFFIX, clouddns.apple.com
+HOST-SUFFIX, events.apple.com
+HOST-SUFFIX, gg.apple.com
+HOST-SUFFIX, guzzoni.apple.com
+HOST-SUFFIX, icloud-drive.com
+HOST-SUFFIX, iforgot.apple.com
+HOST-SUFFIX, imovie-app.com
+HOST-SUFFIX, ipad.com
+HOST-SUFFIX, iphoto-app.com
+HOST-SUFFIX, ipod.com
+HOST-SUFFIX, itunes.apple.com
+HOST-SUFFIX, maps.apple.com
+HOST-SUFFIX, metrics.apple.com
+HOST-SUFFIX, music.apple.com
+HOST-SUFFIX, newton.apple.com
+HOST-SUFFIX, news.apple.com
+HOST-SUFFIX, notifications.apple.com
+HOST-SUFFIX, photos.apple.com
+HOST-SUFFIX, ping.apple.com
+HOST-SUFFIX, podcast.apple.com
+HOST-SUFFIX, podcast-api-origin.itunes.apple.com
+HOST-SUFFIX, protection.apple.com
+HOST-SUFFIX, sandbox.itunes.apple.com
+HOST-SUFFIX, siri.apple.com
+HOST-SUFFIX, support.apple.com
+HOST-SUFFIX, time.apple.com
+HOST-SUFFIX, weather.apple.com
+HOST-SUFFIX, www.apple.com
+
+# Additional Apple Services
+HOST-SUFFIX, akadns.net
+HOST-SUFFIX, aaplimg.com
+HOST-SUFFIX, aip.apple.com
+HOST-SUFFIX, cdn-apple.com
+HOST-SUFFIX, dr-download.apple.com
+HOST-SUFFIX, fabric.io
+HOST-SUFFIX, findmy.com
+HOST-SUFFIX, global.applesv.com
+HOST-SUFFIX, itunes.apple.com
+HOST-SUFFIX, lookup-api.apple.com
+HOST-SUFFIX, push-apple.com
+HOST-SUFFIX, push.apple.com
+HOST-SUFFIX, su.itunes.apple.com
+HOST-SUFFIX, telemetry.dropbox.com
+HOST-SUFFIX, tools.apple.com
+
+# End of list
